@@ -1,3 +1,5 @@
 # My-Euler-Project
-Studying for ProjectEuler \n
-problem 41 - solved
+Studying for ProjectEuler
+
+Problem 41 - solved!
+Problem 42 - solved!
